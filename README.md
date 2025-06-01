@@ -10,7 +10,7 @@ I'm a software developer passionate about web development and open-source projec
 - 🛠 [Project 1](https://github.com/username/project1) - Brief description
 - 🌍 [Project 2](https://github.com/username/project2) - Brief description
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?BlueFyre22=username&show_icons=true&theme=dark)
 
 
   ## 🌎 Connect with Me
@@ -19,7 +19,7 @@ I'm a software developer passionate about web development and open-source projec
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 📫 [Email](mailto:your.email@example.com)
 
-![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/BlueFyre22?label=Follow&style=social)
 
 
 <!--

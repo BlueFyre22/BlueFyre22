@@ -1,5 +1,5 @@
 # Hi there, I'm Greg Marlin 👋
-I'm a software developer passionate about web development and open-source projects.
+I'm a software developer passionate about web development and buiding applications! I'm learning quickly and will no doubt blow your mind soon.
 
 ## 🔥 Tech Stack
 - 💻 Languages: JavaScript, C#, HTML, CSS

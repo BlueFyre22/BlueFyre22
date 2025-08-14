@@ -3,7 +3,7 @@ I'm a software developer passionate about web development and buiding applicatio
 
 ## 🔥 Tech Stack
 - 💻 Languages: JavaScript, C#, HTML, CSS
-- ⚡ Frameworks: React, Node.js, Django
+- ⚡ Frameworks: Vue, Node.js, Django
 - 🛠 Tools: Git, Docker, VS Code
 
 ## 🚀 Featured Projects

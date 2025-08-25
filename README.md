@@ -15,9 +15,9 @@ I'm a software developer passionate about web development and buiding applicatio
 
   ## 🌎 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gregory-marlin-66946520a/)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📫 [Email](mailto:your.email@example.com)
+- 📫 [Email](mailto:bluefyr22@gmail.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/BlueFyre22?label=Follow&style=social)
 

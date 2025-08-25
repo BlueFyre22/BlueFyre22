@@ -10,7 +10,7 @@ I'm a software developer passionate about web development and buiding applicatio
 - 🛠 [Project 1](https://github.com/username/project1) - Brief description
 - 🌍 [Project 2](https://github.com/username/project2) - Brief description
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?BlueFyre22=username&show_icons=true&theme=dark)
+
 
 
   ## 🌎 Connect with Me
